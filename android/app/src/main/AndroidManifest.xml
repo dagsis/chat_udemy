@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.dagsis.chat_udemy">
    <application
-        android:label="chat_udemy"
+        android:label="Ds Chat"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
